@@ -5,7 +5,7 @@ import Places from './Places';
 function App() {
   return (
     <div className="App">
-      <h1>Google Places Search</h1>
+      <h1>Place Search</h1>
       <Places />
     </div>
   );
