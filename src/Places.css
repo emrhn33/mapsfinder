@@ -121,3 +121,7 @@
   .pagination span {
     font-size: 1.2em;
   }
+
+  .red-background {
+    background-color: red;
+  }
